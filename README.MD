@@ -2,6 +2,9 @@ Repositories in project:
 Boatman project (this repo): https://github.com/sjefferson99/Boatman-project
 Describes general project and components
 
+Boat-server-uart: https://github.com/sjefferson99/Boatman-server-uart
+Server code designed for pi zero execution to connect pico I2C hub to the boat network
+
 Boatman pico-uart-hub: https://github.com/sjefferson99/Boatman-pico-uart-hub
 Display module with optional hub and I2C master if pico ESP not present - requires pi zero server over UART for network connectivity
 
