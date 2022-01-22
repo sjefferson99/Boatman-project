@@ -1,5 +1,5 @@
 Repositories in project:
-Boatman root (this repo): 
+Boatman project (this repo): https://github.com/sjefferson99/Boatman-project
 Describes general project and components
 
 Boatman pico-uart-hub: https://github.com/sjefferson99/Boatman-pico-uart-hub
