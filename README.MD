@@ -13,3 +13,8 @@ PWM LED strip controller to be used with LED driver circuitry for boat lighting 
 
 Boatman-picodisplay-case: https://github.com/sjefferson99/Boatman-picodisplay-case
 3D printed case for the Pico with display pack including exposure of IO pin repeaters
+
+Overall architecture diagram:
+
+
+![Architecture diagram](https://github.com/sjefferson99/Boatman-project/blob/master/Boatman%20network.drawio.png)
