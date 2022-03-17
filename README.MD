@@ -7,6 +7,9 @@ Server code designed for pi zero execution to connect pico I2C hub to the boat n
 
 Boatman-webserver: https://github.com/sjefferson99/Boatman-webserver
 
+Boatman-pico-wireless-hub: https://github.com/sjefferson99/Boatman-pico-wireless-hub
+A wireless hub presenting a web server/API for control of the PICO Boatman devices connected via I2C
+
 Boatman pico-uart-hub: https://github.com/sjefferson99/Boatman-pico-uart-hub
 Display module with optional hub and I2C master if pico ESP not present - requires pi zero server over UART for network connectivity
 
