@@ -1,3 +1,5 @@
+# Archived project - This functionality is now being continued in https://github.com/sjefferson99/pico-boat-assistant
+
 Repositories in project:
 Boatman project (this repo): https://github.com/sjefferson99/Boatman-project
 Describes general project and components
